@@ -33,8 +33,6 @@ Durante o ciclo, foram utilizadas principalmente:
  ┃ ┗ base de dados utilizada na análise
  ┣ 📂 notebooks
  ┃ ┗ análises exploratórias e estudos
- ┣ 📂 scripts
- ┃ ┗ códigos em Python
  ┣ 📂 visualizacoes
  ┃ ┗ gráficos e dashboards
  ┗ README.md
